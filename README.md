@@ -3,7 +3,7 @@
 
 - 🤝 I know little bit of everything :V : painting, sketching, writing, designing, illustration and coding?
 
-- 💬 Well, not a John Carmack, but definetely can help you with react, vite, angular, python, js, java
+- 💬 Well, not a John Carmack, but definitely can help you with react, vite, angular, python, js, java
 
 
 <p align="left">
