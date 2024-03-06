@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koshish Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal, currently in United States</h3>
+<h3 align="center">A passionate frontend developer</h3>
 
-- 🤝 I’m looking for help with **Front End Designing and anything else**
+- 🤝 I know little bit of everything :V : painting, sketch, writing, designing and coding?
 
 - 💬 Well, not a John Carmack, but definetely can help you with react, vite, angular, python, js, java
 
