@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋! My name is Koshish Shrestha</h2>
+<h1 align="center">Hi 👋, I'm Koshish Shrestha</h1>
+<h3 align="center">A passionate frontend developer from Nepal, currently in United States</h3>
+
+- 🤝 I’m looking for help with **Front End Designing and anything else**
+
+- 💬 Ask me about **react, vite, angular**
+
+- 📫 How to reach me **koshishshrestha12@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
 ###
 
