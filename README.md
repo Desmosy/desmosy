@@ -35,7 +35,7 @@
 </div>
 
 ###
-<img src="https://www.flaticon.com/free-animated-icon/wink_11175739?term=emoji&page=1&position=17&origin=tag&related_id=11175739"/> If you wanna talk about Putting something in a box, not a cat (Schrodinger's Cat), Takashi's illustration, Chemical Bonding, Binary or anything
+:raising_hand: If you're in the mood for a chat about putting something in a box, let's leave Schrödinger's cat out of it, Takashi's illustrations, chemical bonds (emotional kind as well), binaries or anything
 <h3 align="left">Connect with me:</h3>
     <a href="YOUR_DISCORD_LINK" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
