@@ -3,9 +3,7 @@
 
 - 🤝 I’m looking for help with **Front End Designing and anything else**
 
-- 💬 Ask me about **react, vite, angular**
-
-- 📫 How to reach me **koshishshrestha12@gmail.com**
+- 💬 Well, not a John Carmack, but definetely can help you with react, vite, angular, python, js, java
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
