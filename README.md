@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koshish Shrestha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🤝 I know little bit of everything :V : painting, sketch, writing, designing, illustration and coding?
+- 🤝 I know little bit of everything :V : painting, sketching, writing, designing, illustration and coding?
 
 - 💬 Well, not a John Carmack, but definetely can help you with react, vite, angular, python, js, java
 
