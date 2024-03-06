@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koshish Shrestha</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🤝 I know little bit of everything :V : painting, sketch, writing, designing and coding?
+- 🤝 I know little bit of everything :V : painting, sketch, writing, designing, illustration and coding?
 
 - 💬 Well, not a John Carmack, but definetely can help you with react, vite, angular, python, js, java
 
@@ -35,6 +35,7 @@
 </div>
 
 ###
+<img src="https://www.flaticon.com/free-animated-icon/wink_11175739?term=emoji&page=1&position=17&origin=tag&related_id=11175739"/> If you wanna talk about Putting something in a box, not a cat (Schrodinger's Cat), Takashi's illustration, Chemical Bonding, Binary or anything
 <h3 align="left">Connect with me:</h3>
     <a href="YOUR_DISCORD_LINK" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
