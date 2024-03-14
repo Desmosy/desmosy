@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Koshish Shrestha</h1>
+<h1 align="center">Hi 👋, I'm Koshish Shrestha</h1> 
 <h3 align="center">A passionate frontend developer</h3>
 
 - 🤝 I know a little bit of everything :V : painting, sketching, writing, designing, illustration and coding?
