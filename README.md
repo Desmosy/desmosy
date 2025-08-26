@@ -87,3 +87,47 @@
   <img src="https://github-readme-stats.vercel.app/api?username=desmosy&show_icons=true&theme=transparent&hide_border=true&count_private=true" alt="github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=desmosy&theme=transparent&hide_border=true" alt="streak stats" />
 </div>
+
+
+<div align="center">
+<pre>
+
+/  |                      / |     / |   / | / |
+\ --.  _ __    ___   _ __  | |_   _ | |_   | |_ | |_ --. | ' \  / _ \ | ' \ |  | | ||  |  |  ||  |
+/_/ /| |) || () || | | || |   | || |    | |  | |
+_/ | ./  __/ || ||||   ||||    ||  ||
+| |
+||
+</pre>
+</div>
+
+<div align="center">
+<pre>
+[ KOSHISH SHRESTHA's PROFILE ]
+</pre>
+</div>
+
+> ABOUT ME > A jack-of-all-trades with a passion for painting, sketching, writing, design, illustration, and code.
+
+> TECH STACK > javascript typescript react vite angular python java html5 css3
+
+> LET'S CONNECT > Feel free to reach out for a chat about code, design, Takashi's illustrations, chemical bonds (emotional ones too), or anything in between.
+
+<br>
+
+<div align="center">
+
+linkedin  /  email  /  discord
+
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Ddesmosy%26show_icons%3Dtrue%26theme%3Dgruvbox%26hide_border%3Dtrue%26count_private%3Dtrue" alt="koshish's github stats" height="150"/>
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Ddesmosy%26layout%3Dcompact%26theme%3Dgruvbox%26hide_border%3Dtrue" alt="koshish's top languages" height="150"/>
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/desmosy/desmosy/output/snake.svg" alt="Snake animation" />
+</div>
